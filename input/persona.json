@@ -1,0 +1,10 @@
+{
+  "name": "Sarah Lee",
+  "role": "Hiring Manager",
+  "skills_required": ["Python", "SQL", "Power BI"],
+  "industry": "Data Analytics",
+  "preferences": {
+    "experience_min": 3,
+    "tools": ["Tableau", "Power BI", "Excel"]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "input_documents": [
+      "C:\\Users\\Vivek Vasani\\intelligent_document_analyst1\\intelligent_document_analyst\\app\\..\\input\\Advanced Data Analysis Techniques.pdf"
+    ],
+    "persona": {
+      "name": "Sarah Lee",
+      "role": "Hiring Manager",
+      "skills_required": [
+        "Python",
+        "SQL",
+        "Power BI"
+      ],
+      "industry": "Data Analytics",
+      "preferences": {
+        "experience_min": 3,
+        "tools": [
+          "Tableau",
+          "Power BI",
+          "Excel"
+        ]
+      }
+    },
+    "job_to_be_done": "Analyze data and build reports using Python, SQL, and Power BI to support business decisions",
+    "processing_timestamp": "2025-07-28T14:33:35.669518Z",
+    "processing_time_seconds": 0.31
+  },
+  "extracted_sections": [
+    {
+      "document": "C:\\Users\\Vivek Vasani\\intelligent_document_analyst1\\intelligent_document_analyst\\app\\..\\input\\Advanced Data Analysis Techniques.pdf",
+      "page_number": 1,
+      "section_title": "SQL",
+      "importance_rank": 1,
+      "relevance_score": 0.589596055983046
+    },
+    {
+      "document": "C:\\Users\\Vivek Vasani\\intelligent_document_analyst1\\intelligent_document_analyst\\app\\..\\input\\Advanced Data Analysis Techniques.pdf",
+      "page_number": 1,
+      "section_title": "BI",
+      "importance_rank": 2,
+      "relevance_score": 0.42222222222222217
+    },
+    {
+      "document": "C:\\Users\\Vivek Vasani\\intelligent_document_analyst1\\intelligent_document_analyst\\app\\..\\input\\Advanced Data Analysis Techniques.pdf",
+      "page_number": 1,
+      "section_title": "Page 1",
+      "importance_rank": 3,
+      "relevance_score": 0.3714878582637059
+    },
+    {
+      "document": "C:\\Users\\Vivek Vasani\\intelligent_document_analyst1\\intelligent_document_analyst\\app\\..\\input\\Advanced Data Analysis Techniques.pdf",
+      "page_number": 1,
+      "section_title": "BI",
+      "importance_rank": 4,
+      "relevance_score": 0.23890764193802183
+    },
+    {
+      "document": "C:\\Users\\Vivek Vasani\\intelligent_document_analyst1\\intelligent_document_analyst\\app\\..\\input\\Advanced Data Analysis Techniques.pdf",
+      "page_number": 1,
+      "section_title": "SQL",
+      "importance_rank": 5,
+      "relevance_score": 0.014814814814814815
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "C:\\Users\\Vivek Vasani\\intelligent_document_analyst1\\intelligent_document_analyst\\app\\..\\input\\Advanced Data Analysis Techniques.pdf",
+      "page_number": 1,
+      "refined_text": " queries ### 2.2 Advanced Joins Understanding different join types and when to use them ## Chapter 3: Business Intelligence Tools ### 3.1 Power",
+      "keywords": [
+        "join",
+        "Chapter",
+        "Power",
+        "Intelligence",
+        "Joins",
+        "#",
+        "queries",
+        "types",
+        "Understanding",
+        "Advanced"
+      ],
+      "entities": []
+    },
+    {
+      "document": "C:\\Users\\Vivek Vasani\\intelligent_document_analyst1\\intelligent_document_analyst\\app\\..\\input\\Advanced Data Analysis Techniques.pdf",
+      "page_number": 1,
+      "refined_text": " Dashboards Best practices for creating interactive dashboards ### 3.2 Tableau vs Power",
+      "keywords": [
+        "practices",
+        "Power",
+        "Best",
+        "Tableau",
+        "dashboards",
+        "#",
+        "BI",
+        "Dashboards",
+        "creating"
+      ],
+      "entities": []
+    },
+    {
+      "document": "C:\\Users\\Vivek Vasani\\intelligent_document_analyst1\\intelligent_document_analyst\\app\\..\\input\\Advanced Data Analysis Techniques.pdf",
+      "page_number": 1,
+      "refined_text": " # Advanced Data Analysis Techniques ## Chapter 1: Python for Data Analysis ### 1.1 Pandas Fundament [...]  Learn how to perform: - Hypothesis testing - Regression analysis - Data visualization ## Chapter 2:",
+      "keywords": [
+        "Regression",
+        "Chapter",
+        "skills",
+        "Advanced",
+        "data",
+        "transformation",
+        "cleaning",
+        "Learn",
+        "perform",
+        "Fundamentals"
+      ],
+      "entities": []
+    },
+    {
+      "document": "C:\\Users\\Vivek Vasani\\intelligent_document_analyst1\\intelligent_document_analyst\\app\\..\\input\\Advanced Data Analysis Techniques.pdf",
+      "page_number": 1,
+      "refined_text": " Comparative analysis of both tools",
+      "keywords": [
+        "tools",
+        "analysis",
+        "BI"
+      ],
+      "entities": []
+    },
+    {
+      "document": "C:\\Users\\Vivek Vasani\\intelligent_document_analyst1\\intelligent_document_analyst\\app\\..\\input\\Advanced Data Analysis Techniques.pdf",
+      "page_number": 1,
+      "refined_text": " Optimization ### 2.1 Query Performance Techniques for writing efficient",
+      "keywords": [
+        "Optimization",
+        "Query",
+        "#",
+        "writing",
+        "Performance",
+        "SQL",
+        "Techniques"
+      ],
+      "entities": []
+    }
+  ]
+}
